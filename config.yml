@@ -1,0 +1,11 @@
+baseURL: https://jimmyau.com/
+languageCode: en-us
+title: Yet Another Developer
+theme: arabica
+pygmentsCodefences: "true"
+pygmentsStyle: monokai
+params:
+    description: Jimmy Au's Blog
+    dateFormatToUse: 2006-01-02
+    twitter: jjbubudi
+    github: jjbubudi
